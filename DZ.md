@@ -12,3 +12,7 @@ git add
 ```sh
 git commit -m "Messeng"
 ```
+Просмотр коммитов:
+```sh
+git log
+```
