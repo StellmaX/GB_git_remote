@@ -20,3 +20,7 @@ git log
 ```sh
 git log --oneline
 ```
+Переход к коммиту:
+```sh
+git checkout
+```
