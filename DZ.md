@@ -16,3 +16,7 @@ git commit -m "Messeng"
 ```sh
 git log
 ```
+Просмотр коммитов в сокращённом варианте:
+```sh
+git log --oneline
+```
