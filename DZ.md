@@ -8,3 +8,7 @@ git init
 ```sh
 git add
 ```
+Создание коммита:
+```sh
+git commit -m "Messeng"
+```
