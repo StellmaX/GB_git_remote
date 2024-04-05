@@ -36,14 +36,9 @@ git log --oneline
 git checkout
 ```
 
-<<<<<<< HEAD
-Инструмент diff:
-
-```sh
-
-=======
 Сравненине изменений в commit:
 
 ```sh
 git diff <commit1> <commit2>
 ```
+
