@@ -54,5 +54,8 @@ git branch <name_branch>
 git merge <name_branch>
 ```
 
+Удоление последнего commit:
 
-
+```sh
+git reset --hard HEAD~1
+```
