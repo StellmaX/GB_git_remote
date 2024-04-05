@@ -48,3 +48,8 @@ git diff <commit1> <commit2>
 git branch <name_branch>
 ```
 
+Слияние веток:
+
+```sh
+git merge <name_branch>
+```
