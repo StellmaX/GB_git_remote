@@ -53,3 +53,6 @@ git branch <name_branch>
 ```sh
 git merge <name_branch>
 ```
+
+
+
