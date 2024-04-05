@@ -42,3 +42,9 @@ git checkout
 git diff <commit1> <commit2>
 ```
 
+Создание новой ветки:
+
+```sh
+git branch <name_branch>
+```
+
