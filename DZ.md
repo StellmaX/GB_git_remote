@@ -24,3 +24,9 @@ git log --oneline
 ```sh
 git checkout
 ```
+
+Инструмент diff:
+
+```sh
+
+```
